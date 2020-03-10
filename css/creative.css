@@ -84,7 +84,7 @@ li {
 
 .payPal {
   padding: 2rem;
-  width: 100%;
+  width: 50%;
   height: auto;
 }
 
@@ -4290,6 +4290,9 @@ input[type=submit].btn-block {
   }
   .navbar {
     margin-bottom: 2rem;
+  }
+  .payPal {
+    width: 100%;
   }
 }
 
